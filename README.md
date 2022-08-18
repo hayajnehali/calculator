@@ -1,2 +1,2 @@
 # calculator
-https://github.com/hayajnehali/calculator.git
+https://hayajnehali.github.io/calculator/
